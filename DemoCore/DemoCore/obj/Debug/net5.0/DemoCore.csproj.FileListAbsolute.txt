@@ -1,0 +1,8 @@
+C:\Users\ayyil\source\repos\DemoCore\DemoCore\obj\Debug\net5.0\DemoCore.csproj.AssemblyReference.cache
+C:\Users\ayyil\source\repos\DemoCore\DemoCore\obj\Debug\net5.0\DemoCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayyil\source\repos\DemoCore\DemoCore\obj\Debug\net5.0\DemoCore.AssemblyInfoInputs.cache
+C:\Users\ayyil\source\repos\DemoCore\DemoCore\obj\Debug\net5.0\DemoCore.AssemblyInfo.cs
+C:\Users\ayyil\source\repos\DemoCore\DemoCore\obj\Debug\net5.0\DemoCore.csproj.CoreCompileInputs.cache
+C:\Users\ayyil\source\repos\DemoCore\DemoCore\obj\Debug\net5.0\DemoCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayyil\source\repos\DemoCore\DemoCore\obj\Debug\net5.0\DemoCore.RazorAssemblyInfo.cache
+C:\Users\ayyil\source\repos\DemoCore\DemoCore\obj\Debug\net5.0\DemoCore.RazorAssemblyInfo.cs
